@@ -3,4 +3,4 @@ This is a website for the teachers so they can easily talk to the parents during
 
 
 
-Click to visit Website https://sidd705.github.io/For-School/
+Click to visit Website https://sidd705.github.io/For-School/WEB
